@@ -1,7 +1,8 @@
 # Covid Data Project
 
 This project is a brief look at the Covid data gathered from ourworldindata.org
-  Data was last pulled in April 2022
+
+*Data was last pulled in April 2022
 
 This project will continue to evolve and be updated using more data, different data analytic tools and visualizations.
 
