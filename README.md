@@ -1,6 +1,6 @@
 # Covid Data Project
 
-This project is a brief look at the Covid data gathered from ourworldindata.org
+This project is a brief look at the Covid death and vaccination data gathered from ourworldindata.org
 
 *Data was last pulled in March 2022
 
