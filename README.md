@@ -2,7 +2,9 @@
 
 What defines the end of a pandemic?  The New York Times states, "According to historians, pandemics typically have two types of endings: the medical, which occurs when the incidence and death rates plummet, and the social, when the epidemic of fear about the disease wanes."  Covid-19 is not gone but have we reached the point in our pandemic when it has ended socially?
 
- Then the question becomes will this pandemic become endemic? Meaning Covid could be around year after year like influenza but will be at a much less severe level.  If that is the case, when do we accept the death rate of Covid as a community and decide that it will no longer affect our day-to-day lives?
+ Then the question becomes will this pandemic become endemic? Meaning Covid could be around year after year like influenza but will be at a much less severe level.  If that is the case, when do we accept the death rate of Covid as a community and decide that it will no longer affect our day-to-day lives?  In this table we look at global totals for deaths and cases.
+ 
+ <img src="https://github.com/KBonfe/CovidDataProject/files/8484513/totalstable.pdf">
 
 
 This project is a brief look at the Covid death, infection, and vaccination rates gathered from ourworldindata.org.  As you can see from the graphs below all global levels have dropped since Febrary of 2022.  
