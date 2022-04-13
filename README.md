@@ -816,20 +816,30 @@ Total Cases | Total Deaths | Percent of Death
 
 </html>
 
-----------------------
+
+# Data
 This project is a brief look at the Covid death, infection, and vaccination rates gathered from ourworldindata.org.  As you can see from the graphs below all global levels have dropped since Febrary of 2022.  
 <img src="https://user-images.githubusercontent.com/33985564/163263504-ad8c1de2-ca1e-4586-8844-141b568b50b3.png">
 
 *Data was last pulled in March 2022
 
-This project will continue to evolve and be updated using more data, different data analytic tools and visualizations.
+
+# Coclusions
+
+From this project we can see that levels are dropping off.  Next step is to see if this drop off is statistically relevent.  Another good approach to see if Covid will become a endemic would be to do a sentiment analysis of a social media sight like twitter to see if people around the globe feel that the pandemic is coming to an end.
+
+
+# More Visualizations
 
 Power BI Visualizations can be downloaded in archive.(Covid Data Project.pbix)
+This is a Dashboard of cases, vaccinations, and death.  These pages are much more indepth look at the data in a visual display.
 
 Tableau Visualization
 https://public.tableau.com/views/PortfolioProject1_16472180549570/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+-------------------------
 References:
+
 National Library of Medicine
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8014506/
 Scientific American
