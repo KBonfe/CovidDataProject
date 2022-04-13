@@ -6,7 +6,7 @@ What defines the end of a pandemic?  The New York Times states, "According to hi
 
 
 This project is a brief look at the Covid death, infection, and vaccination rates gathered from ourworldindata.org.  As you can see from the graphs below all global levels have dropped since Febrary of 2022.  
-
+<img src="https://user-images.githubusercontent.com/33985564/163261619-236fb9be-d51f-4d86-ba2a-947d57d1912e.png">
 
 *Data was last pulled in March 2022
 
