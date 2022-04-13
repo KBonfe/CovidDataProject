@@ -4,7 +4,7 @@ What defines the end of a pandemic?  The New York Times states, "According to hi
 
  Then the question becomes will this pandemic become endemic? Meaning Covid could be around year after year like influenza but will be at a much less severe level.  If that is the case, when do we accept the death rate of Covid as a community and decide that it will no longer affect our day-to-day lives?  In this table we look at global totals for deaths and cases.
  
- <img src="https://github.com/KBonfe/CovidDataProject/files/8484513/totalstable.pdf">
+ <img src="https://github.com/KBonfe/CovidDataProject/files/8484804/totalstable.docx">
 
 
 This project is a brief look at the Covid death, infection, and vaccination rates gathered from ourworldindata.org.  As you can see from the graphs below all global levels have dropped since Febrary of 2022.  
