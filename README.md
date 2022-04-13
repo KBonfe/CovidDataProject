@@ -1,4 +1,4 @@
-# Covid Data Project
+# Is the Pandemic Over?
 
 This project is a brief look at the Covid death and vaccination data gathered from ourworldindata.org
 
