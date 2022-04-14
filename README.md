@@ -14,9 +14,9 @@ It is easy to see that the United States has the largest number of cases of Covi
 
 <img src="https://user-images.githubusercontent.com/33985564/163293577-ee76f29d-cc44-4123-8c4b-05de729e0b70.png">
 
-<img src="">
+From our next visual we can see the number of people vaccinated within each continent.  What this doesn't show is that over all it is China, India, and the United States that are leading in the number of people vaccinated by country.  If you take a look at the Power BI Visualization that is archived here on the site you can drill down into the data and see these numbers!  Please feel free to check those out!
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/33985564/163293566-c5e41c55-5886-4ff0-9aef-5d64a89021fe.png">
 
 *Data was last pulled in March 2022
 
