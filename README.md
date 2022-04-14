@@ -10,6 +10,14 @@ So, will this pandemic become endemic? Meaning will Covid be around year after y
 This project is a brief look at the Covid death, infection, and vaccination rates gathered from ourworldindata.org.  As you can see from the graphs below all global levels have dropped since Febrary of 2022.  
 <img src="https://user-images.githubusercontent.com/33985564/163263504-ad8c1de2-ca1e-4586-8844-141b568b50b3.png">
 
+It is easy to see that the United States has the largest number of cases of Covid when observing the Treemap below of number of cases by country.
+
+<img src="">
+
+<img src="">
+
+<img src="">
+
 *Data was last pulled in March 2022
 
 
