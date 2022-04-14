@@ -12,7 +12,7 @@ This project is a brief look at the Covid death, infection, and vaccination rate
 
 It is easy to see that the United States has the largest number of cases of Covid when observing the Treemap below of number of cases by country.
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/33985564/163293577-ee76f29d-cc44-4123-8c4b-05de729e0b70.png">
 
 <img src="">
 
