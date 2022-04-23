@@ -22,7 +22,7 @@ From our next visual we can see the number of people vaccinated within each cont
 *Data was last pulled in March 2022
 
 
-# Coclusions
+# Conclusions
 
 From this project we can see that levels are dropping off.  Next step is to see if this drop off is statistically relevent.  Another good approach to see if Covid will become a endemic would be to do a sentiment analysis of a social media site like twitter to see if people around the globe feel that the pandemic is coming to an end.
 
