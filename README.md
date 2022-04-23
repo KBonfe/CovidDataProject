@@ -21,6 +21,9 @@ From our next visual we can see the number of people vaccinated within each cont
 
 *Data was last pulled in March 2022
 
+# Methodology
+The data from this project was obtained from https://ourworldindata.org/coronavirus. It was imported directly into Excel.  Then the data was transformed using Microsoft SQL Server Studio.  Several views were created inorder to focus and customize tables to be used to create visualizations and to analyze the data.  Power Bi and Tableau were both used to create different Dashboards and visualizations. 
+
 
 # Conclusions
 
